@@ -6,7 +6,7 @@
   "type": "module",
   "dependencies": {
     "pretty-ms": "9.3.0",
-    "undici": "8.5.0"
+    "undici": "8.10.2"
   },
   "devDependencies": {
     "@openclaw/matrix": "workspace:*",
